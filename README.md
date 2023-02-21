@@ -10,13 +10,13 @@ sort-it is a wonderfull python script that sort the files according to there ext
 ## installation
 
 - first clone the repositiory :
-  ''git clone https://github.com/dev22419/sort-it/''
+  ```git clone https://github.com/dev22419/sort-it/```
   
 - then just run the 'run.py' file :
-  "python run.py"
+  ```python run.py```
   
 ## usage 
 
-- after running the file a folder named 'puthere' will appear in the same folder .
+- after running the file a folder named `puthere` will appear in the same folder .
 
-- just copy and paste the files into 'puthere' folder and the files will be sorted automaticaly
+- just copy and paste the files into `puthere` folder and the files will be sorted automaticaly
