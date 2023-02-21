@@ -1,5 +1,13 @@
 import os 
 import time
+
+ls = os.listdir()
+if "puthere" in ls:
+    print("puthere folder is ready")
+else :
+    os.mkdir("puthere")
+    print("puthere folder is ready")
+
 time.sleep(5)
 print("now running ...")
 while True:
