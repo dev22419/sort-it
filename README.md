@@ -7,6 +7,8 @@ sort-it is a wonderfull python script that sort the files according to there ext
 
 - os should be windows 7 or higher
 
+- no python module installation needed
+
 ## installation
 
 - first clone the repositiory :
