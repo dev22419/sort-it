@@ -25,10 +25,10 @@ sort-it is a wonderfull python script that sort the files according to there ext
 ## python installation
 
 - first clone the repositiory : <br>
-  ```...```
+  ```sort.py```
   
 - then just run the 'run.py' file : <br>
-  ```python run.py```
+  ```python sort.py```
   
 ## exe installation
 
@@ -47,7 +47,7 @@ sort-it is a wonderfull python script that sort the files according to there ext
 
 ## videos
 
-- running the ```run.py``` or ```sort.exe``` <br>
+- running the ```sort.py``` or ```sort.exe``` <br>
 
 ![runing](https://user-images.githubusercontent.com/75600994/220376873-fe4263d3-ad34-440e-8ee1-a6f555221a16.gif)
 
