@@ -9,13 +9,22 @@ sort-it is a wonderfull python script that sort the files according to there ext
 
 - no python module installation needed
 
-## installation
+## python installation
 
 - first clone the repositiory : <br>
-  ```git clone https://github.com/dev22419/sort-it/```
+  ```...```
   
 - then just run the 'run.py' file : <br>
   ```python run.py```
+  
+## exe installation
+
+- first open windows terminal
+
+- paste the following command <br>
+  ``curl ``
+  
+- then simply run the ```sort.exe``` file . 
   
 ## usage 
 
@@ -25,7 +34,7 @@ sort-it is a wonderfull python script that sort the files according to there ext
 
 ## videos
 
-- running the ```run.py``` <br>
+- running the ```run.py``` or ````sort.exe``` <br>
 
 ![runing](https://user-images.githubusercontent.com/75600994/220376873-fe4263d3-ad34-440e-8ee1-a6f555221a16.gif)
 
