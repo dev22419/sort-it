@@ -9,7 +9,9 @@
 &nbsp;
 <img src="https://img.shields.io/github/watchers/dev22419/sort-it?style=social">
 </p>
-# sort-it
+
+
+## sort-it <br>
 sort-it is a wonderfull python script that sort the files according to there extention in different folder .
 
 ## requirments 
