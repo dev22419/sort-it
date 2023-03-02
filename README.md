@@ -2,6 +2,7 @@
   <img src="https://user-images.githubusercontent.com/75600994/222332648-3ff17d4d-568c-4fc1-b9b7-5df8d2c140ad.png" width="50%" height="50%">
 </p>
 <p>
+&nbsp;
 <img src="https://img.shields.io/github/license/dev22419/sort-it?style=for-the-badge">
 &nbsp;
 <img src="https://img.shields.io/github/last-commit/dev22419/sort-it?style=for-the-badge">
