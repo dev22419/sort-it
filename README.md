@@ -1,7 +1,4 @@
-
 ![sort](https://user-images.githubusercontent.com/75600994/222332648-3ff17d4d-568c-4fc1-b9b7-5df8d2c140ad.png)
-
-
 # sort-it
 sort-it is a wonderfull python script that sort the files according to there extention in different folder .
 
