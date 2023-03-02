@@ -3,6 +3,7 @@
 </p>
 <img src="https://img.shields.io/github/license/dev22419/sort-it?style=for-the-badge">
 <img src="https://img.shields.io/github/last-commit/dev22419/sort-it?style=for-the-badge">
+<img src="https://img.shields.io/github/watchers/dev22419/sort-it?style=social">
 # sort-it
 sort-it is a wonderfull python script that sort the files according to there extention in different folder .
 
