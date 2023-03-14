@@ -24,10 +24,15 @@ sort-it is a wonderfull python script that sort the files according to there ext
 
 ## python installation
 
-- download the ```sort.py``` file .
+- run the following command in your terminal or cmd to download ```sort.py``` .<br>
+  ```
+  wget https://raw.githubusercontent.com/dev22419/sort-it/main/sort.py -o sort.py
+  ```
   
 - then just run the 'run.py' file : <br>
-  ```python sort.py```
+  ```
+  python sort.py
+  ```
   
 ## exe installation
 
