@@ -39,7 +39,9 @@ sort-it is a wonderfull python script that sort the files according to there ext
 - first open windows terminal . 
 
 - download the ```sort.exe``` file .
-  
+  ```
+  wget https://raw.githubusercontent.com/dev22419/sort-it/main/sort.exe -o sort.exe
+  ```
 - then simply run the ```sort.exe``` file . 
   
 ## usage 
